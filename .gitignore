@@ -11,4 +11,5 @@ yarn.lock
 
 # Environment variables
 .env
-
+dist
+.vercel
