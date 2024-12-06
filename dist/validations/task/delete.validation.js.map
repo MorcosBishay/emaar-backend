@@ -1,0 +1,1 @@
+{"version":3,"file":"delete.validation.js","sourceRoot":"","sources":["../../../src/validations/task/delete.validation.ts"],"names":[],"mappings":";;;;;;AAAA,8CAAqB;AAIR,QAAA,0BAA0B,GAAe;IACpD,MAAM,EAAE,aAAG,CAAC,MAAM,CAAC;QACjB,EAAE,EAAE,aAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE,CAAC,QAAQ,CAAC;YACnC,cAAc,EAAE,gBAAgB;SACjC,CAAC;KACH,CAAC;CACH,CAAA"}
